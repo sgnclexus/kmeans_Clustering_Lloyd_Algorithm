@@ -13,7 +13,7 @@ Final project for Data Structures and Algorithms.
 
 ## Getting Started <a name = "getting_started"></a>
 
-This is just on jupyter notebook that shows how to implement Lloyd's Algorithm on
+This is just a jupyter notebook that shows how to implement Lloyd's Algorithm on
 K-Means Clustering
 
 ### Some important facts:
